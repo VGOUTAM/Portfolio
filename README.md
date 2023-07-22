@@ -1,76 +1,68 @@
-<h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
-</h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
+# Portfolio Website - React
 
-<br/>
+Welcome to my personal portfolio website built using React. This repository contains the source code for the site, showcasing my skills, projects, and experiences to provide visitors with an overview of my professional profile.
 
-<center>
+## Home
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
+The home section of the website provides a brief introduction and serves as the starting point for visitors. It presents an overview of who I am and what I do, along with a call-to-action to explore my projects and learn more about my work.
 
-</center>
+## About
 
-<h3 align="center">
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
-</h3>
+The About section offers more in-depth information about me, including my background, education, and professional experience. Visitors can gain insights into my journey, interests, and areas of expertise.
 
-## TL;DR
+## Projects
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+The Projects section highlights a curated selection of my most significant projects. Each project is presented with a brief description, key features, and links to their respective GitHub repositories or live demos. Feel free to explore the projects to see the variety of work I've undertaken.
 
-## Built With
+## Resume
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+In the Resume section, you can find a link to my latest resume/CV. It provides a comprehensive overview of my skills, work history, and education. If you are interested in collaborating or hiring, my resume will provide you with a more detailed look at my qualifications.
 
-This project was built using these technologies.
+## GitHub Portfolio Repository
 
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
+To get an in-depth understanding of the code and structure of this portfolio website, you can visit the dedicated GitHub repository. It contains all the source code, React components, and assets used to build this portfolio. The repository is actively maintained and is a great resource for developers interested in creating their own portfolio websites using React.
 
-## Features
+Link to the repository: [GitHub Portfolio Repository](https://github.com/VGOUTAM/Portfolio)
 
-**📖 Multi-Page Layout**
+## Technologies Used
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+This portfolio website is built using the following technologies:
 
-**📱 Fully Responsive**
+- React
+- HTML
+- CSS
+- JavaScript
 
 ## Getting Started
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+To set up this project locally, follow these steps:
 
-## 🛠 Installation and Setup Instructions
+1. *Clone the repository:*
+   
+   git clone https://github.com/VGOUTAM/Portfolio.git
+   
 
-1. Installation: `npm install`
+2. *Change directory:*
+   
+   cd portfolio
+   
 
-2. In the project directory, you can run: `npm start`
+3. *Install dependencies:*
+   
+   npm install
+   
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
+4. *Start the development server:*
+   
+   npm start
+   
 
-## Usage Instructions
+5. The development server will start, and you can view your portfolio website in your browser by navigating to `http://localhost:3000/`.
 
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
+## Usage
 
-### Show your support
+Feel free to customize this portfolio website according to your preferences and professional experiences. You can update the content, add new projects, and tweak the styling to match your personal brand.
 
-Give a ⭐ if you like this website!
+## Deployment
 
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+When you're ready to share your portfolio with the world, you can deploy the website using various hosting services that support React applications, such as Vercel, Netlify, or GitHub Pages. Check out their respective documentation for deployment instructions.
